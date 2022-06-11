@@ -29,7 +29,7 @@ Model has a structure of a recurrent neural network with LSTM layer. An Adam Opt
  Total params: 721,501
  
 ## Model evaluation
-The model achieved F-score of 69,6 % and balanced accuracy of 77,8%. Probably a larger dataset or a different network architecture is necessary to achieve better results. 
+The model achieved F-score of 69,6% and balanced accuracy of 78,0%. Probably a larger dataset or a different network architecture is necessary to achieve better results. 
 
 ## Used external libraries
 pandas, NumPy, Matplotlib, scikit-learn, Keras, spaCy, seaborn
